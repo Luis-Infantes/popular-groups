@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|e:\\proyectos\\mis cosas\\05 estudios\\01 microsoft 365\\00 tajamar\\mcv\\populargroupsapp\\populargroupsapp\\controllers\\bandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\controllers\\bandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\models\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\models\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\views\\band\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\views\\band\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\views\\band\\concertbands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\views\\band\\concertbands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\populargroupsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F6EB05-E4C6-4A38-9DF5-DE3B84E08AD6}|PopularGroupsApp\\PopularGroupsApp.csproj|solutionrelative:populargroupsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Models\\Concert.cs",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Models\\Concert.cs",
+              "RelativeToolTip": "PopularGroupsApp\\Models\\Concert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:48:57.884Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Band.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Models\\Band.cs",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Models\\Band.cs",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Models\\Band.cs",
+              "RelativeToolTip": "PopularGroupsApp\\Models\\Band.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:48:45.288Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PopularGroupsApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:29:10.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PopularGroupsApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T08:36:17.186Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Views\\Home\\Details.cshtml",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "PopularGroupsApp\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T16:59:12.63Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.txt",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\README.txt",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\README.txt",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\README.txt",
+              "RelativeToolTip": "PopularGroupsApp\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-17T08:26:15.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Band\\Index.cshtml",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Views\\Band\\Index.cshtml",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Band\\Index.cshtml",
+              "RelativeToolTip": "PopularGroupsApp\\Views\\Band\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T17:41:58.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcertBands.cshtml",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Band\\ConcertBands.cshtml",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Views\\Band\\ConcertBands.cshtml",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Band\\ConcertBands.cshtml",
+              "RelativeToolTip": "PopularGroupsApp\\Views\\Band\\ConcertBands.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T17:22:38.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BandController.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Controllers\\BandController.cs",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Controllers\\BandController.cs",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Controllers\\BandController.cs",
+              "RelativeToolTip": "PopularGroupsApp\\Controllers\\BandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:42:37.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PopularGroupsApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:30:56.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PopularGroupsApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\Proyectos\\Mis cosas\\05 Estudios\\01 Microsoft 365\\00 Tajamar\\MCV\\PopularGroupsApp\\PopularGroupsApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PopularGroupsApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:24:01.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+﻿
+@model PopularGroupsApp.Models.Band
+
+<h4>@Html.ActionLink(Model.Name,"Details","Home", new { id = Model.Id }, new { @class = "text-warning fw-bold text-decoration-none" })</h4>
+<p>@Model.Style</p>
+
+@if (Model.concerts != null && Model.concerts.Any())
+{
+    <table class="table table-dark table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Ciudad</th>
+                <th>Fecha</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var concert in Model.concerts)
+            {
+                <tr>
+
+
+                   
+                    <td>@concert.Name</td>
+                    <td>@concert.City</td>
+                    <td>@concert.Date.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay conciertos disponibles.</p>
+}
+
+
+
+

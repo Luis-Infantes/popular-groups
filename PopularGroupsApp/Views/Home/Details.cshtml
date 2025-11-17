@@ -1,0 +1,67 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.GlobalText = "Detalles";
+    ViewBag.Footer = "Todos los derechos reservados";
+}
+
+<div class="container my-4 d-flex justify-content-center">
+    <div class="border border-warning p-4" style="background-color: transparent; width: 80%;">
+        <div class="row justify-content-center">
+            <!-- Banda -->
+            <div class="col-md-8 text-center mb-4">
+                <h4 class="text-warning">@Model.Name</h4>
+                <img src="@Url.Content(Model.ImagePath)" alt="@Model.Name" class="img-fluid mb-3" style="width:200px;height:auto;" />
+                <h4 class="text-warning">@Model.Style</h4>
+                <h5 class="text-warning">Ciudad de origen (@Model.Cities)</h5>
+                <p class="text-light" style="font-size: 1.1rem;">@Model.Description</p>
+
+               
+            </div>
+
+            <!-- Conciertos -->
+            <div class="col-md-8">
+                @if (ViewBag.Concert is List<PopularGroupsApp.Models.Concert> concerts && concerts.Any())
+                {
+                    <h5 class="text-warning mb-3">Próximos Conciertos</h5>
+                    <table class="table table-dark table-striped table-bordered w-100">
+                        <thead>
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Ciudad</th>
+                                <th>Fecha</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var concert in concerts)
+                            {
+                                <tr>
+                                    <td>@concert.Name</td>
+                                    <td>@concert.City</td>
+                                    <td>@concert.Date.ToShortDateString()</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p class="text-light">No hay conciertos disponibles.</p>
+                }
+            </div>
+        </div>
+        <!-- Botón volver -->
+        <div class="text-center mt-4">
+            <a href="@Url.Action("Index", "Home")" class="btn btn-outline-warning mx-2 px-4">Inicio</a>
+            <a href="@Url.Action("Index", "Band")" class="btn btn-outline-warning mx-2 px-4">Eventos</a>
+        </div>
+    </div>
+
+
+</div>
+
+
+
+
+
+

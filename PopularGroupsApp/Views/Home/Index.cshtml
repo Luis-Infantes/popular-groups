@@ -1,0 +1,39 @@
+﻿@using PopularGroupsApp.Models
+@model List<Band>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.GlobalText = "Listado de bandas";
+    ViewBag.Footer = "Todos los derechos reservados";
+}
+
+
+
+<div class="container-fluid d-flex align-items-center justify-content-center" style="min-height:100vh;">
+    <div class="row g-4 justify-content-center">
+        @foreach (var band in Model)
+        {
+            <div class="col-md-6 col-lg-2 d-flex justify-content-center">
+                <div class="card shadow-sm" style="max-width:18rem;">
+                    <div class="card-header bg-dark text-white text-center">
+                        <h5 class="mb-0 text-warning">@band.Style</h5>
+                    </div>
+                    
+                    <div class="card-body text-center bg-dark">
+                        <a href="@Url.Action("Details", new { id = band.Id })">
+                            <img src="@Url.Content(band.ImagePath)" alt="@band.Name" class="img-fluid" style="width:200px;height:auto;" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+
+<div class="d-flex justify-content-center my-4">
+    @Html.ActionLink("Conciertos", "Index", "Band", null, new { @class = "btn btn-outline-warning" })
+</div>
+
+
+
